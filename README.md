@@ -7,6 +7,9 @@ Testa il gioco direttamente nel tuo browser:
 * [**Online Python**](https://www.online-python.com/d0QYAcaJBP)
 * [**Programiz**](https://www.programiz.com/online-compiler/81ZaBBS5oRCQS)
 
+Oppure testa la versione web:
+* [**Sito live**](https://samuelefrasca.github.io/MontyHall-Simulator/)
+* [**Repository**](https://github.com/samuelefrasca/MontyHall-Simulator)
 ---
 
 ### 📖 Come funziona?
